@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first year Computer Science and Mathematics student combining the creativity of mathematics with the utility of computing<br>Languages: JavaScript and Python<br>Technology: Linux(I use arch btw)<br>Frontend: HTML,CSS<br><br><br>
+I am a first year Computer Science and Mathematics student combining the creativity of mathematics with the utility of computing<br>I love building brojects that have little to no use in th ereal world aside from just being fun<>br>I use arch btw<br><br><br>
 
 
 # 💻 Tech Stack:
