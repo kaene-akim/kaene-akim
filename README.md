@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first year Computer Science and Mathematics student combining the creativity of mathematics with the utility of computing<br>I love building brojects that have little to no use in th ereal world aside from just being fun<br>I use arch btw<br><br><br>
+I am a first year Computer Science and Mathematics student combining the creativity of mathematics with the utility of computing<br>I love building brojects that have little to no use in the real world aside from just being fun. <br>That being said, I want to change the way education is run across the world, so I build projects to get me close to that goal<br>I use arch btw<br><br><br>
 
 
 # 💻 Tech Stack:
