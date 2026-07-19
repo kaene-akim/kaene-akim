@@ -19,7 +19,7 @@ I use Arch Linux, btw.<br><br><br>
 ![](https://github-contributor-stats.vercel.app/api?username=kaene-akim&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 🔗 Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaene-morerinyane-068043311)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
 
 ---
