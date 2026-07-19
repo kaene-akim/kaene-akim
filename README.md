@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,I am a first-year Computer Science and Mathematics student, combining the creativity of mathematics with the practicality of computing.<br>
+Hi, I'm Akim, a first-year Computer Science and Mathematics student, combining the creativity of mathematics with the practicality of computing.<br>
 I enjoy building projects that are challenging, unusual, and fun—even if they don't always have a real-world purpose.<br>
 My long-term goal is to improve education through technology, so every project I build teaches me something that brings me one step closer to making that vision a reality.<br>
 I use Arch Linux, btw.<br><br><br>
