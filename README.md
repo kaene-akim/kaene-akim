@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20Computer%20Science%20and%20Mathematics%20student%20%40DurhamUniversity;Interested%20in%20making%20random%20fun%20projects.%20Also%20changing%20education%20through%20tech" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20Computer%20Science%20and%20Mathematics%20student%20%40DurhamUniversity;Interested%20in%20making%20random%20fun%20projects%20and%20%20improving%20through%20tech" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </p>
 
 ### 📊 GitHub Stats
