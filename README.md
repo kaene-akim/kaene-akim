@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20Computer%20Science%20and%20Mathematics%20student%20%40DurhamUniversity;Interested%20in%20making%20random%20fun%20projects%20and%20%20improving%20through%20tech" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20Computer%20Science%20and%20Mathematics%20student%20%40DurhamUniversity;Interested%20in%20making%20random%20fun%20projects%20and%20%20improving%20education%20through%20tech" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
