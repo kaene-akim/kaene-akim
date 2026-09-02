@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **Typescript**
+🌱 &nbsp;I'm currently learning **Node**
 
 ### 🛠️ Tech Stack
 
